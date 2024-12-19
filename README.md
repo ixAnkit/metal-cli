@@ -104,7 +104,7 @@ Once golang is installed, run:
 ./scripts/build.sh
 ```
 
-The binary will be called `./bin/avalanche`.
+The binary will be called `./build/cryft-cli`.
 
 ### Docker
 
