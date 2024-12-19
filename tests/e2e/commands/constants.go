@@ -4,7 +4,7 @@
 package commands
 
 const (
-	CLIBinary  = "./bin/avalanche"
+	CLIBinary  = "./build/cryft-cli"
 	SubnetCmd  = "subnet"
 	NetworkCmd = "network"
 	KeyCmd     = "key"
