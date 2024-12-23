@@ -35,7 +35,7 @@ const (
 	MainnetAPIEndpoint    = "https://api.avax.network"
 
 	// this depends on bootstrap snapshot
-	LocalAPIEndpoint = "http://127.0.0.1:9650"
+	LocalAPIEndpoint = "http://98.97.11.99:9650"
 	LocalNetworkID   = 1337
 
 	DefaultTokenName = "TEST"
@@ -84,7 +84,7 @@ const (
 	SubnetEVMBin = "subnet-evm"
 	SpacesVMBin  = "spacesvm"
 
-	DefaultNodeRunURL = "http://127.0.0.1:9650"
+	DefaultNodeRunURL = "http://98.97.11.99:9650"
 
 	APMDir                = ".apm"
 	APMLogName            = "apm.log"
